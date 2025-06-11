@@ -6,6 +6,12 @@ Large Language Models (LLMs) leverage deep learning and transformer architecture
 
 This report will examine a couple of these cabablities using pre-trained models from the Hugging Face library. First two models will be compared for their text summarization capabilities. Afterwards an extractive question answering model will be explored. 
 
+
+![image](https://github.com/user-attachments/assets/96e07c42-06c4-4d93-9712-0e76d16623f8)
+
+![image](https://github.com/user-attachments/assets/564589d8-2281-4d49-afe9-16c305bfb201)
+
+
 ## References
 _CNN-DailyMail News Text summarization._ (2021, October 23). Kaggle. [https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail]
 
@@ -17,7 +23,3 @@ OpenAI. (2024). _ChatGPT_ (Sept 2024) [AI model]. In respose to prompt, "Please 
 
 Waheed, A. (2023, June 17). _How to calculate ROUGE score in Python - the Python Code._ 
 [https://thepythoncode.com/article/calculate-rouge-score-in-python]
-
-![image](https://github.com/user-attachments/assets/96e07c42-06c4-4d93-9712-0e76d16623f8)
-
-![image](https://github.com/user-attachments/assets/564589d8-2281-4d49-afe9-16c305bfb201)
